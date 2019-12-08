@@ -1,0 +1,100 @@
+.atas{
+	background: url(../media/image/foto/32.jpg);
+	background-size: cover;
+	padding: 10px 0 10px 0;
+}
+
+.text-atas h1{
+	color: #fff;
+}
+.text-atas p{
+	color: #fff;
+}
+.judul h1{
+	margin: 3% 0;
+	color: #c41617;
+}
+
+.judul-myprojects {
+	margin: 3% 0;
+	color: #fff;
+}
+
+.item-project img {
+	margin: 2% 0;
+	box-shadow: 2px 5px 3px #000;
+}
+
+.tombol-projects {
+	margin: 3% 0;
+}
+
+.tombol-projects a {
+	color: #c41617;
+}
+
+.tombol-projects a:hover {
+	text-decoration: none;
+}
+
+/*DETAIL PORTFOLIO */
+.detail-portfolio p {
+	text-align: justify;
+}
+
+.detail-portfolio p img {
+	width: 250px;
+	float: left;
+	margin: 0 1% 1% 0;
+}
+
+/*wiget portfolio*/
+/*portfolio terbaru*/
+.widget-portfolio-terbaru ul {
+	list-style: none;
+}
+.widget-portfolio-terbaru ul li{
+	overflow: hidden;
+	margin-bottom: 4%;
+}
+.widget-portfolio-terbaru ul li:hover {
+	box-shadow: 2px 2px 2px red;
+}
+
+.gambar-portfolio-terbaru img {
+	width: 40%;
+	float: left;
+	margin-right: 2%;
+}
+.judul-portfolio-terbaru a {
+	color: red;
+}
+
+.judul-portfolio-terbaru a:hover {
+	text-decoration: none;
+}
+
+
+
+.myprojects {
+	background: url(../media/image/foto/31.jpg);
+	background-size: cover;
+}
+
+.copyright {
+	background-color: green;
+	padding: 1% 0;
+}
+
+.copyright p {
+	color: yellow;
+}
+
+.copyright a{
+	color: #fff;
+}
+
+.copyright a:hover {
+	text-decoration: none;
+	color: red;
+}
